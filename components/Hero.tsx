@@ -40,7 +40,7 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider my-4 text-sm md:text-lg lg:text-2xl">
-              Hi! I'm Muhammad Kaif, a Next.js Developer based in Pakistan.
+              Hi! I&apos;m Muhammad Kaif, a Next.js Developer based in Pakistan.
             </p>
 
             <a href="#about">
