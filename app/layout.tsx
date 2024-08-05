@@ -6,7 +6,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Muhammad Kaif Nazeer - Portfolio",
+  title: "Developer Portfolio - Created by Muhammad Kaif Nazeer",
   description: "Modern and Minimalist Muhammad Kaif Nazeer Portfolio",
 };
 
